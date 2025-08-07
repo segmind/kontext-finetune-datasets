@@ -6,10 +6,8 @@ Fine-tuning dataset for head/face enlargement image processing.
 
 ### Example 1
 <p align="center">
-  <img src="1_start.jpg">
-</p>
-<p align="center">
-  <img src="1_end.jpg">
+  <img src="1_start.jpg" width="50%">
+  <img src="1_end.jpg" width="50%">
 </p>
 
 - **Start**: [1_start.jpg](./1_start.jpg)
@@ -18,10 +16,8 @@ Fine-tuning dataset for head/face enlargement image processing.
 
 ### Example 2
 <p align="center">
-  <img src="2_start.jpg">
-</p>
-<p align="center">
-  <img src="2_end.jpg">
+  <img src="2_start.jpg" width="50%">
+  <img src="2_end.jpg" width="50%">
 </p>
 
 - **Start**: [2_start.jpg](./2_start.jpg)
@@ -30,10 +26,8 @@ Fine-tuning dataset for head/face enlargement image processing.
 
 ### Example 3
 <p align="center">
-  <img src="3_start.jpg">
-</p>
-<p align="center">
-  <img src="3_end.jpg">
+  <img src="3_start.jpg" width="50%">
+  <img src="3_end.jpg" width="50%">
 </p>
 
 - **Start**: [3_start.jpg](./3_start.jpg)
