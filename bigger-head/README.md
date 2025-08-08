@@ -1,13 +1,13 @@
 # Bigger Head Dataset
 
-Fine-tuning dataset for head/face enlargement image processing.
+Fine-tuning dataset for head/face enlargement.
 
 ## Sample Images
 
 ### Example 1
 <p align="center">
-  <img src="1_start.jpg" width="50%">
-  <img src="1_end.jpg" width="50%">
+  <img src="1_start.jpg" width="30%" hspace="1"><img src="1_end.jpg" width="30%">
+  <br/>Make her head big
 </p>
 
 - **Start**: [1_start.jpg](./1_start.jpg)
@@ -16,8 +16,8 @@ Fine-tuning dataset for head/face enlargement image processing.
 
 ### Example 2
 <p align="center">
-  <img src="2_start.jpg" width="50%">
-  <img src="2_end.jpg" width="50%">
+  <img src="2_start.jpg" width="30%" hspace="1"><img src="2_end.jpg" width="30%">
+  <br/>Make his head big
 </p>
 
 - **Start**: [2_start.jpg](./2_start.jpg)
@@ -26,10 +26,11 @@ Fine-tuning dataset for head/face enlargement image processing.
 
 ### Example 3
 <p align="center">
-  <img src="3_start.jpg" width="50%">
-  <img src="3_end.jpg" width="50%">
+  <img src="3_start.jpg" width="30%" hspace="1"><img src="3_end.jpg" width="30%">
+  <br/>Make her head big
 </p>
 
 - **Start**: [3_start.jpg](./3_start.jpg)
 - **End**: [3_end.jpg](./3_end.jpg)
+
 - **Prompt**: [3_end.txt](./3_end.txt)
