@@ -12,7 +12,7 @@ Fine-tuning dataset for head/face enlargement.
 
 - **Start**: [1_start.jpg](./1_start.jpg)
 - **End**: [1_end.jpg](./1_end.jpg) 
-- **Prompt**: [1_end.txt](./1_end.txt)
+- **Prompt**: [1.txt](./1.txt)
 
 ### Example 2
 <p align="center">
@@ -22,7 +22,7 @@ Fine-tuning dataset for head/face enlargement.
 
 - **Start**: [2_start.jpg](./2_start.jpg)
 - **End**: [2_end.jpg](./2_end.jpg)
-- **Prompt**: [2_end.txt](./2_end.txt)
+- **Prompt**: [2.txt](./2.txt)
 
 ### Example 3
 <p align="center">
@@ -33,4 +33,4 @@ Fine-tuning dataset for head/face enlargement.
 - **Start**: [3_start.jpg](./3_start.jpg)
 - **End**: [3_end.jpg](./3_end.jpg)
 
-- **Prompt**: [3_end.txt](./3_end.txt)
+- **Prompt**: [3.txt](./3.txt)
